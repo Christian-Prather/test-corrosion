@@ -1,0 +1,8 @@
+[package]
+name = "simple"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libffi = "=3.0.0"
+libffi-sys = "=2.0.0"
